@@ -12,5 +12,4 @@ Polling Completion: After the polling process has been completed, a pre-register
 
 Transparency and Audibility: Everyone can check the number of addresses or accounts that are interacting with the polling contract, but they cannot see what exactly the voters voted for, as the voting information is encrypted inside the contract during the process. After the polling process has been completed, the results will be revealed, and the whole process and code will be open-sourced, allowing anyone to participate in auditing work and help improve the system.
 
-
 Note: This guide assumes that the reader is familiar with the basics of Ethereum and smart contract development.
