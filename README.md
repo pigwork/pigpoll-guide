@@ -1,4 +1,4 @@
-# pig poll operation guide 📄
+# pigpoll operation guide 📄
 
 Technical Operation Guide for the Distributed Polling System🗳:
 
